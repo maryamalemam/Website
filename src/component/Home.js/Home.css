@@ -1,0 +1,84 @@
+
+ .section4 {
+  background-color:transparent;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 60px;
+ }
+
+ .section4 h2 {
+  display: block;
+  color: #8B4513 ;
+  font-size: 40px;
+  line-height: 60px;
+  font-style: italic;
+  margin-top: 50px;
+ } 
+
+ .section4 p {
+  color: #333;
+  font-style: italic;
+  margin: 15px 0px;
+ }
+
+ .section4 button {
+  width: 150px;
+  height: 50px;
+  background-color:#556B2F  ;
+  border: 1px solid #556B2F ;
+  box-sizing: border-box;
+  text-align: center;
+  color: #fff;
+  margin : 20px 15px 20px 0px;
+  font-style: italic;
+  border-radius: 7px;
+  transition: .2;
+ }
+
+ .section4 button a {
+  text-decoration : none;
+  color: #fff;
+  display: block;
+ }
+
+ .section4 button:hover a{
+  color: #556B2F;
+ 
+ }
+
+ .section4 button:hover {
+  background-color: #fff;
+
+ }
+
+.offer  {
+  background-image:url(./../../images/23.jpg) ;
+    background-size: cover;
+    
+    height: 10-+
+    0px;
+    text-align: center;
+    overflow: hidden;
+    padding: 25px 0px;
+}
+
+ .offer h2 {
+
+  text-align: center;
+ }
+.section4 img {
+ 
+  border-radius: 10px;
+  max-width: 190%;
+  border-radius: 10px;
+  width: 1000px;
+  height: 650px;
+ 
+  
+}  
+
+
+
+
